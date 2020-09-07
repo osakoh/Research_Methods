@@ -6,8 +6,9 @@ This repository contains notes and reports for 'Research Methods'
 ## Folder structure
 Hypothetical research project consisting of: 
 =================
-* Research questions
-* Search_Strategy
-* Bibliography
-* Initial Report and Final Report
-* Notes
+
+- [x] Bibliography
+- [x] Changes
+- [x] Initial Report and Final Report
+- [x] Research questions
+- [x] Search_Strategy
