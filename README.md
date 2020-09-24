@@ -11,4 +11,4 @@ Hypothetical research project consisting of:
 - [x] Changes
 - [x] Initial Report and Final Report
 - [x] Research questions
-- [x] Search_Strategy
+- [x] Search_Strategy 
